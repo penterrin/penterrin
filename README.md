@@ -1,3 +1,27 @@
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">Penterrin</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer+and+Artist;3DsMax+Blender;Procreate+Photoshop;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
+<!-- markdownlint-enable MD033 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @penterrin
 - 🌱 I’m currently learning c++ c# for videogames
 - 💞️ I’m looking to collaborate on videogame dev
